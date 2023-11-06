@@ -13,9 +13,9 @@ JavaScript is used to handle the logic of the application, including setting and
 Overall, the alarm clock project is a great way to practice using HTML, CSS, and JavaScript to build a functional and interactive web application.
 ## Demo
 
-https://github.com/kumudKishor1901/alarm-clock-javaScript.git
+https://github.com/harshvardhanshinde14/alarm-clock-javaScript.git
 ## Authors
-Kumud Kishor
+Harshvardhan Shinde
 
 
 
